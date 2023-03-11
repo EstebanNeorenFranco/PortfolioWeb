@@ -39,15 +39,14 @@ export default function Home() {
               <TwitterIcon/>
               <LinkedInIcon/>
           </div>
-          <div className='relative mx-auto bg-gradient-to-b from-teal-500  rounded-full w-25 h-25 mt-20 '>
+          <div className='relative mx-auto  rounded-full w-25 h-25 mt-20 '>
             <Image  src={esti} layout="fill" objectFit='cover' />
-            holasss
           </div>  
         </section>
 
         <section>
           <div>
-            <h3 className='text-3xl py-1'>Services I offer:</h3>
+            <h3 className='text-3xl py-1'>About me:</h3>
             <p className=''>
             Desde chico me apasiona la tecnología, a los 12 me regalaron un Arduino y desde entonces desarrollar proyectos tecnológicos es la actividad que más me apasiona.
             </p>
