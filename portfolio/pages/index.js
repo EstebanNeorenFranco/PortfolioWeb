@@ -46,7 +46,7 @@ export default function Home() {
 
         <section>
           <div>
-            <h3 className='text-3xl py-1'>About me:</h3>
+            <h3 className='text-3xl py-1 text-red-600'>About me:</h3>
             <p className=''>
             Desde chico me apasiona la tecnología, a los 12 me regalaron un Arduino y desde entonces desarrollar proyectos tecnológicos es la actividad que más me apasiona.
             </p>
